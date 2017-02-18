@@ -12,7 +12,7 @@ package calmvc;
 
 public class model {
     
-    public static String students = " Moath , Najeeb , Mohammad ";
+    public static String students123 = " Moath , Najeeb , Mohammad ";
     
     private  double num1;
     private  double num2;
